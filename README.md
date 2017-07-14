@@ -269,3 +269,11 @@ real	0m2.455s
 user	0m2.347s
 sys	0m0.058s
 ```
+
+| language | has JIT | spend time |Optimized parameter|
+|----------|---------|------------|-------------------|
+| C++      | No      | 3.8        | -                 |
+| java     | Yes     | 0.9        | -                 |
+| java     | No      | 21.5       | -                 |
+| python   | No      | 113        | -                 |
+| pypy     | Yes     | 2.4        | -                 |
