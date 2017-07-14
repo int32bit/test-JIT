@@ -1,0 +1,24 @@
+C++
+real	0m3.805s
+user	0m3.779s
+sys	0m0.012s
+
+Java with JIT
+real	0m0.916s
+user	0m0.837s
+sys	0m0.053s
+
+Java without JIT
+real	0m21.536s
+user	0m20.961s
+sys	0m0.197s
+
+Python
+real	1m53.462s
+user	1m52.782s
+sys	0m0.292s
+
+Pypy
+real	0m2.455s
+user	0m2.347s
+sys	0m0.058s
